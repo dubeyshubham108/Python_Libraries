@@ -1,1 +1,2 @@
-## Here you can find all the python libraries in a very easy to understand manner.
+# Python Libraries
+Here is a list of python libraries that are required for data science.
